@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying "Holberton School" 10 times
+# This script is displaying "Best School" 10 times
 # 4th it will display "bad luck from China" in place of
 # 9th it will display "bad luck from Japan" in place of
 # 17th it will display "bad luck from Italy" in place of
